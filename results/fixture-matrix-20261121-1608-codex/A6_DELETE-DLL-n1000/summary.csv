@@ -1,0 +1,2 @@
+run_id,condition_id,build_id,valid_repeats,raw_reference,median_ms,min_ms,max_ms,comparison_status
+fixture-A6_DELETE-DLL-n1000,A6_DELETE-DLL-n1000,release-d2640ca2e2f0,5,raw.csv,1,1,2,BELOW_RESOLUTION

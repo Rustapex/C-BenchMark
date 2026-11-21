@@ -1,0 +1,39 @@
+빌드 시작: 2026-11-20 오후 9:04:34
+
+1 노드의 "C:\Github\C-BenchMark\prototype\WordDictionaryPrototype.sln" 프로젝트(기본 대상)입니다.
+ValidateSolutionConfiguration:
+  솔루션 구성 "Release|x64"을(를) 빌드하고 있습니다.
+"C:\Github\C-BenchMark\prototype\WordDictionaryPrototype.sln"(1) 프로젝트가 1 노드에서 "C:\Github\C-BenchMark\prototype\WordDictionaryPrototype.vcxproj"(2)을(를) 빌드하고 있습니다(기본 대상).
+PrepareForBuild:
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\" 디렉터리를 만들고 있습니다.
+  구조적 출력을 사용할 수 있습니다. 컴파일러 진단의 서식은 오류 계층 구조를 반영합니다. 자세한 내용은 https://aka.ms/cpp/structured-output을 참조하세요.
+  "C:\Github\C-BenchMark\prototype\build\x64\Release\" 디렉터리를 만들고 있습니다.
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\WordDict.4F20E3B4.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "C:\Github\C-BenchMark\prototype\obj\x64\Release\WordDict.4F20E3B4.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\WordDict.4F20E3B4.tlog\unsuccessfulbuild"에 연결(touching)하고 있습니다.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX86\x64\CL.exe /c /Zi /nologo /W4 /WX- /diagnostics:column /O2 /GL /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c17 /Fo"C:\Github\C-BenchMark\prototype\obj\x64\Release\\" /Fd"C:\Github\C-BenchMark\prototype\obj\x64\Release\vc145.pdb" /external:W4 /Gd /TC /FC /errorReport:queue /utf-8 dict.c tests.c main.c
+  dict.c
+  tests.c
+  main.c
+Link:
+  C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Github\C-BenchMark\prototype\build\x64\Release\WordDictionaryPrototype.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Github\C-BenchMark\prototype\build\x64\Release\WordDictionaryPrototype.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"C:\Github\C-BenchMark\prototype\obj\x64\Release\WordDictionaryPrototype.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Github\C-BenchMark\prototype\build\x64\Release\WordDictionaryPrototype.lib" /MACHINE:X64 "C:\Github\C-BenchMark\prototype\obj\x64\Release\dict.obj"
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\tests.obj"
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\main.obj"
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 68 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  WordDictionaryPrototype.vcxproj -> C:\Github\C-BenchMark\prototype\build\x64\Release\WordDictionaryPrototype.exe
+FinalizeBuildStatus:
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\WordDict.4F20E3B4.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "C:\Github\C-BenchMark\prototype\obj\x64\Release\WordDict.4F20E3B4.tlog\WordDictionaryPrototype.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Github\C-BenchMark\prototype\WordDictionaryPrototype.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+"C:\Github\C-BenchMark\prototype\WordDictionaryPrototype.sln" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:01.86

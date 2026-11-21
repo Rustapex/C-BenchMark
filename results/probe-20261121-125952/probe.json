@@ -1,0 +1,15 @@
+{
+  "timer_policy_id": "CLOCK-STD-C-01",
+  "probe_source": "FIXTURE",
+  "exe_sha256": "D8F182560210D43BAAF767D482AD1DC1207372522E91413B9D5E515A875E552D",
+  "probe_status": "OK",
+  "run_status": "FAILED",
+  "overhead_completed": false,
+  "external_monotonic_watchdog_seconds": 3,
+  "external_elapsed_seconds": 0.372816,
+  "process_exit_code": 0,
+  "timed_out": false,
+  "observed_at": "2026-11-21T12:59:53.2890504+09:00",
+  "stdout": "status=OK",
+  "stderr": ""
+}

@@ -1,0 +1,12 @@
+FAIL T04:LIST_LINKS LIST initial_links expected=pear->grape->apple actual=pear->grape->apple
+FAIL T04:LIST_LINKS LIST after_delete_links expected=pear->apple actual=pear->apple
+FAIL T04:LIST_LINKS LIST initial_links expected=pear->grape->apple actual=pear->grape->apple
+FAIL T04:LIST_LINKS LIST after_delete_links expected=grape->apple actual=grape->apple
+FAIL T04:LIST_LINKS LIST initial_links expected=pear->grape->apple actual=pear->grape->apple
+FAIL T04:LIST_LINKS LIST after_delete_links expected=pear->grape actual=pear->grape
+FAIL T05:INSERT_ROTATIONS AVL insert_shape expected=grape(apple,mango) actual=grape(apple,mango)
+FAIL T05:INSERT_ROTATIONS AVL insert_shape expected=grape(apple,mango) actual=grape(apple,mango)
+FAIL T05:INSERT_ROTATIONS AVL insert_shape expected=grape(apple,mango) actual=grape(apple,mango)
+FAIL T05:INSERT_ROTATIONS AVL insert_shape expected=grape(apple,mango) actual=grape(apple,mango)
+FAIL T06:HASH HASH chain_initial expected=melon->lemon->banana->grape actual=melon->lemon->banana->grape
+TEST_SUMMARY mode=all checks=6160 failed=11 cases=18 diagnostic_checks=123 exit=3

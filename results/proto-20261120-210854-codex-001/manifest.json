@@ -1,0 +1,32 @@
+{
+    "schema_version":  1,
+    "stage":  "prototype",
+    "run_id":  "proto-20261120-210854-codex-001",
+    "runner_actor":  "codex",
+    "started_at":  "2026-11-20T21:08:54.7818807+09:00",
+    "status":  "COMPLETED",
+    "configuration":  "Debug",
+    "platform":  "x64",
+    "c_standard":  "C17",
+    "test_mode":  "all",
+    "fixture_version":  "prototype-v1",
+    "timer_policy_id":  "NOT_APPLICABLE_PROTOTYPE",
+    "source_sha256":  {
+                          "dict.h":  "F8CBF29F502ECB579799CF8CF09513C2449E77D4D09F7C34AACF0801C1BF1007",
+                          "dict.c":  "6D173C61B2B16F76EC5D9E6521123E48EDC0FA81ECEEB599FF8E7A2D1F865B4C",
+                          "tests.h":  "94576FF6E432E77A6FF474FAE41B7464616D9447170BF563B4DC525CD786A59B",
+                          "tests.c":  "B9F46E71F9CD8741EC4C69D55912579E5FB416F2577B565619F73C82ECA31AEC",
+                          "main.c":  "3F2A6B2777BD9F7A0F53D1105E6292F3A0A3CA5D984F038A42A5985AA43EB0E9",
+                          "WordDictionaryPrototype.sln":  "C81B56B2B8F7199D5EB600B591E9D2947B7A1F2C04FE766728FF241F058B4E6D",
+                          "WordDictionaryPrototype.vcxproj":  "6176D8E46484EEF7E7563F0B7BA3C3329788E617EB8F7047692188C86F370091",
+                          "run_proto.ps1":  "E94DA5F916A66385798DCEF70A514D0181F17A566C9188CCBB304199E173EAEB",
+                          "README.md":  "F6EED3421991EB2B4BE3BFABB584B125CBFA912B12F591F5414918C36C60F5DF"
+                      },
+    "exe_path":  "C:\\Github\\C-BenchMark\\prototype\\build\\x64\\Debug\\WordDictionaryPrototype.exe",
+    "exe_sha256":  "FDFB5BE1C45AB4ECC0D1BC9FF89CDBFA50C31D7B1322BA7BAE445F13F575499B",
+    "build_exit_code":  0,
+    "test_exit_code":  0,
+    "checks":  6160,
+    "failed_checks":  0,
+    "completed_at":  "2026-11-20T21:08:57.1175006+09:00"
+}

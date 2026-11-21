@@ -1,0 +1,2 @@
+FAIL CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH LIST deliberately_wrong_expectation expected=NOT_FOUND actual=FOUND
+TEST_SUMMARY mode=checker-negative checks=7 failed=1 cases=1 diagnostic_checks=7 exit=3

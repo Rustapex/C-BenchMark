@@ -1,0 +1,8 @@
+case_id	kind	step	expected	actual	result
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	create	OK	OK	PASS
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	create_handle	non-NULL	non-NULL	PASS
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	insert_apple	OK	OK	PASS
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	deliberately_wrong_expectation	NOT_FOUND	FOUND	FAIL
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	destroy_handle	NULL	NULL	PASS
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	destroy_twice	NULL	NULL	PASS
+CHECK-FAULT:prototype-v1:WRONG_EXPECTED_SEARCH	LIST	core_live_after_destroy	count=0 bytes=0 owner=0000000000000000	count=0 bytes=0 owner=0000000000000000	PASS

@@ -1,0 +1,14 @@
+{
+  "timer_policy_id": "CLOCK-STD-C-01",
+  "probe_source": "OFFICIAL",
+  "probe_status": "OK",
+  "run_status": "COMPLETED",
+  "overhead_completed": true,
+  "external_monotonic_watchdog_seconds": 10,
+  "external_elapsed_seconds": 5.114162,
+  "process_exit_code": 0,
+  "timed_out": false,
+  "observed_at": "2026-11-21T12:57:48.3698218+09:00",
+  "stdout": "PROBE policy=CLOCK-STD-C-01 status=OK elapsed_s=5 samples=5000 calls=44337170 min_ticks=1 median_ticks=1 max_ticks=1 q_ms=1 CLOCKS_PER_SEC=1000\r\nPROBE_OVERHEAD empty_pair_min_ticks=0 empty_pair_median_ticks=0 empty_pair_max_ticks=0 million_call_ms=45 calls=1000000 checksum=5022387552 official_subtraction=NO",
+  "stderr": ""
+}

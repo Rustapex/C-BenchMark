@@ -1,0 +1,15 @@
+{
+  "timer_policy_id": "CLOCK-STD-C-01",
+  "probe_source": "RELEASE_SNAPSHOT",
+  "exe_sha256": "D2640CA2E2F02247037C12461928870EE9B0E3C4A7FCFC60E20B503F13C2EDE5",
+  "probe_status": "OK",
+  "run_status": "COMPLETED",
+  "overhead_completed": true,
+  "external_monotonic_watchdog_seconds": 10,
+  "external_elapsed_seconds": 5.092265,
+  "process_exit_code": 0,
+  "timed_out": false,
+  "observed_at": "2026-11-21T16:06:25.5185356+09:00",
+  "stdout": "PROBE policy=CLOCK-STD-C-01 status=OK elapsed_s=5 samples=4922 calls=41556442 min_ticks=1 median_ticks=1 max_ticks=69 q_ms=1 CLOCKS_PER_SEC=1000\r\nPROBE_OVERHEAD empty_pair_min_ticks=0 empty_pair_median_ticks=0 empty_pair_max_ticks=0 million_call_ms=47 calls=1000000 checksum=5023294168 official_subtraction=NO",
+  "stderr": ""
+}

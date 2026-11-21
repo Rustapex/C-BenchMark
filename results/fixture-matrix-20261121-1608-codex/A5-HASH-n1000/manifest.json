@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "run_id": "fixture-A5-HASH-n1000",
+  "build_id": "release-d2640ca2e2f0",
+  "condition_id": "A5-HASH-n1000",
+  "input_kind": "SYNTHETIC_FIXTURE",
+  "timer_policy_id": "CLOCK-STD-C-01",
+  "probe_status": "FIXTURE_ASSUMED",
+  "q_ms": 1,
+  "policy_frozen_at": "2026-11-21T16:07:35.2413251+09:00",
+  "policy_decision_reason": "caller supplied; wrapper verification required",
+  "seed": 2022156023,
+  "n": 1000,
+  "operations_hash": "62aaab0496372127",
+  "raw_reference": "raw.csv",
+  "summary_reference": "summary.csv",
+  "raw_rows": 5,
+  "status": "FIXTURE_COMPLETED"
+}

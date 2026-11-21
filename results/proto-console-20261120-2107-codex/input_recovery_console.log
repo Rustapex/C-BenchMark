@@ -1,0 +1,25 @@
+
+WordDictionaryPrototype | 1 interactive | 2 accuracy | 3 official measurement | 0 exit
+Main menu: Invalid number. Try again.
+Main menu: Dictionary: 1 LIST | 2 AVL | 3 HASH
+Kind: initial_n (1..100000; enter 16 for a small test): Created empty LIST dictionary. initial_n=16 capacity=0 count=0
+
+1 insert | 2 search | 3 remove | 4 sorted words | 5 count/settings | 0 back
+Operation: Word: Input line too long; discarded.
+
+1 insert | 2 search | 3 remove | 4 sorted words | 5 count/settings | 0 back
+Operation: Word: insert ab => INVALID_INPUT; count=0
+
+1 insert | 2 search | 3 remove | 4 sorted words | 5 count/settings | 0 back
+Operation: Word: insert Apple => INVALID_INPUT; count=0
+
+1 insert | 2 search | 3 remove | 4 sorted words | 5 count/settings | 0 back
+Operation: Word: insert apple => OK; count=1
+
+1 insert | 2 search | 3 remove | 4 sorted words | 5 count/settings | 0 back
+Operation: kind=LIST initial_n=16 capacity=0 count=1
+
+1 insert | 2 search | 3 remove | 4 sorted words | 5 count/settings | 0 back
+Operation: 
+WordDictionaryPrototype | 1 interactive | 2 accuracy | 3 official measurement | 0 exit
+Main menu: 

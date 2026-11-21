@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "run_id": "feedback-fixture-20261121-1249",
+  "build_id": "release-20261121",
+  "condition_id": "A5-AVL-n1000",
+  "input_kind": "SYNTHETIC_FIXTURE",
+  "timer_policy_id": "CLOCK-STD-C-01",
+  "probe_status": "OK",
+  "q_ms": 1,
+  "policy_frozen_at": "2026-11-20T21:00:00+09:00",
+  "policy_decision_reason": "validated probe before pilot",
+  "seed": 2022156023,
+  "n": 1000,
+  "operations_hash": "62aaab0496372127",
+  "raw_reference": "raw.csv",
+  "summary_reference": "summary.csv",
+  "raw_rows": 5,
+  "status": "FIXTURE_COMPLETED"
+}

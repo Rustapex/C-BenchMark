@@ -1,0 +1,14 @@
+{
+  "n": 1000,
+  "status": "COMPLETE",
+  "external_monotonic_cap_seconds": 600,
+  "external_elapsed_seconds": 0.077872,
+  "process_exit_code": 0,
+  "executable_sha256": "139B0387A9A9AC93E292341F967C36D9D57EA680DA7F6E79C02E17FF7272182A",
+  "words_sha256": "41C6E947E1D4D6B20EEF20FC85155A4ABDE41D98527BAE08FDD6AC21A8AFFB6D",
+  "started_at": "2026-11-21T12:59:23.8131192+09:00",
+  "finished_at": "2026-11-21T12:59:23.8912077+09:00",
+  "observed_at": "2026-11-21T12:59:23.9254093+09:00",
+  "stdout": "INIT_PROGRESS n=1000 inserted=1000\r\nINIT_COMPLETE n=1000 inserted=1000 elapsed_ms=2 timer=clock\r\n",
+  "stderr": ""
+}

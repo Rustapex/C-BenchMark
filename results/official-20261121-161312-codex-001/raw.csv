@@ -1,0 +1,6 @@
+run_id,condition_id,build_id,experiment,structure,n,repeat,operations,timer,time_unit,elapsed_ms,time_status,expected_hits,actual_hits,initial_count,final_count,bucket_count,initial_alpha,final_alpha,validation_status,resolution_status,error
+official-20261121-161312-codex-001,A5-AVL-n1000,release-e6bb42fd9470,A5,AVL,1000,1,1000,clock,ms,1,VALID,485,485,1000,1119,,,,PASS,BELOW_RESOLUTION,
+official-20261121-161312-codex-001,A5-AVL-n1000,release-e6bb42fd9470,A5,AVL,1000,2,1000,clock,ms,0,VALID,485,485,1000,1119,,,,PASS,BELOW_RESOLUTION,
+official-20261121-161312-codex-001,A5-AVL-n1000,release-e6bb42fd9470,A5,AVL,1000,3,1000,clock,ms,0,VALID,485,485,1000,1119,,,,PASS,BELOW_RESOLUTION,
+official-20261121-161312-codex-001,A5-AVL-n1000,release-e6bb42fd9470,A5,AVL,1000,4,1000,clock,ms,0,VALID,485,485,1000,1119,,,,PASS,BELOW_RESOLUTION,
+official-20261121-161312-codex-001,A5-AVL-n1000,release-e6bb42fd9470,A5,AVL,1000,5,1000,clock,ms,0,VALID,485,485,1000,1119,,,,PASS,BELOW_RESOLUTION,

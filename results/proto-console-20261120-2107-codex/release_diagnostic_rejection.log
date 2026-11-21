@@ -1,0 +1,1 @@
+Diagnostic hooks are unavailable in Release. Use --test core.

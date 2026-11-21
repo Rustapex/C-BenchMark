@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "run_id": "official-20261121-125653-codex-001",
+  "build_id": "release-9fd8bfa954a0",
+  "condition_id": "A5-AVL-n1000",
+  "input_kind": "ORIGINAL_FILE",
+  "timer_policy_id": "CLOCK-STD-C-01",
+  "probe_status": "PENDING_WRAPPER",
+  "q_ms": 1,
+  "policy_frozen_at": "2026-11-21T12:56:53.5414349+09:00",
+  "policy_decision_reason": "caller supplied; wrapper verification required",
+  "seed": 2022156023,
+  "n": 1000,
+  "operations_hash": "55eba0f97f6c31c6",
+  "raw_reference": "raw.csv",
+  "summary_reference": "summary.csv",
+  "raw_rows": 5,
+  "status": "FAILED"
+}
