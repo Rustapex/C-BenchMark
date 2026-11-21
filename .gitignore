@@ -1,0 +1,16 @@
+# Visual Studio personal settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Local working build output; recorded result snapshots remain tracked
+/prototype/build/
+/prototype/obj/
+
+# Original assignment input is kept outside the repository
+**/words.txt
